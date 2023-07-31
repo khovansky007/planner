@@ -4,7 +4,7 @@ import os, sys
 
 sys.setrecursionlimit(1000000)
 
-today = '31.07.2023'
+today = '31.07.2023' # need to parse info from google or use some lib
 
 # data = {
 #             '31.07.2023': [
